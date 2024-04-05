@@ -1,0 +1,12 @@
+{
+    "caption": "salvarNoBubble",
+    "fields": {
+        "AAV": {
+            "caption": "Nome do Arquivo",
+            "editor": "DynamicValue",
+            "name": "nome",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

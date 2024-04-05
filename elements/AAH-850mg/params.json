@@ -1,0 +1,58 @@
+{
+    "add_is_visible": true,
+    "category": "input forms",
+    "default_dim": {
+        "height": 15,
+        "width": 15
+    },
+    "display": "Image Dimensions teste",
+    "events": {
+        "AAY": {
+            "caption": "Salvo",
+            "name": "saved"
+        }
+    },
+    "icon": "ion-arrow-resize",
+    "states": {
+        "AAN": {
+            "caption": "preview",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "preview",
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "URL bubble",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "bubble",
+            "value": "text"
+        },
+        "AAX": {
+            "caption": "Nome",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "nome",
+            "value": "text"
+        },
+        "AAZ": {
+            "caption": "altura",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "altura",
+            "value": "number"
+        },
+        "AAa": {
+            "caption": "largura",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "largura",
+            "value": "number"
+        }
+    }
+}

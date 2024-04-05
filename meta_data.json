@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "0": "image"
+    },
+    "description": "The plugin identifies the size of any image you upload to the application by storing the width and height in two different variables.",
+    "image": "//meta-q.cdn.bubble.io/f1712261665024x941992994672780200/reduzir.png",
+    "license": "open_source",
+    "name": "Image Dimensions"
+}
